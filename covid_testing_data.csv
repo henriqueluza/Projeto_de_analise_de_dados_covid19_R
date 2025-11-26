@@ -1,0 +1,224 @@
+"Country","Date","Tested","Units","Confirmed","Confirmed_Tested_Pct","Tested_Population_Pct","Confirmed_Population_Pct"
+"Afghanistan",NA,154767,"samples",49621,32.1,0.4,0.13
+"Albania",NA,428654,"samples",96838,22.6,15,3.4
+"Algeria",2020-11-02,230553,"samples",58574,25.4,0.53,0.13
+"Andorra",NA,300307,"samples",37958,12.6,387,49
+"Angola",NA,399228,"samples",20981,5.3,1.3,0.067
+"Antigua and Barbuda",2021-03-06,15268,"samples",832,5.4,15.9,0.86
+"Argentina",NA,35716069,"samples",9060495,25.4,78.3,20
+"Armenia",NA,3099602,"samples",422963,13.6,105,14.3
+"Australia",NA,78548492,"samples",10112229,12.9,313,40.3
+"Austria",NA,205817752,"samples",5789991,2.8,NA,65
+"Azerbaijan",NA,6838458,"samples",792638,11.6,69.1,8
+"Bahamas",2022-11-28,259366,"samples",37483,14.5,67.3,9.7
+"Bahrain",NA,10578766,"samples",696614,6.6,674,44.4
+"Bangladesh",2021-07-24,7417714,"samples",1151644,15.5,4.5,0.7
+"Barbados",NA,770100,"samples",103014,13.4,268,35.9
+"Belarus",NA,13217569,"samples",982809,7.4,139,10.4
+"Belgium",2023-01-24,36548544,"samples",4691499,12.8,317,40.7
+"Belize",2022-06-08,572900,"samples",60694,10.6,140,14.9
+"Benin",NA,595112,"samples",7884,1.3,5.1,0.067
+"Bhutan",NA,1736168,"samples",12702,0.73,234,1.71
+"Bolivia",2022-06-05,4358669,"cases",910228,20.9,38.1,8
+"Bosnia and Herzegovina",NA,1872934,"samples",399887,21.4,54.7,11.7
+"Botswana",2022-01-11,2026898,"",232432,11.5,89.9,10.3
+"Brazil",NA,23561497,"samples",10081676,42.8,11.2,4.8
+"Brunei",NA,153804,"samples",338,0.22,33.5,0.074
+"Bulgaria",NA,10993239,"samples",1295524,11.8,158,18.6
+"Burkina Faso",2021-03-04,158777,"samples",12123,7.6,0.76,0.058
+"Burundi",2021-01-05,90019,"",884,0.98,0.76,0.0074
+"Cambodia",NA,1812706,"",77914,4.3,11.2,0.48
+"Cameroon",NA,942685,"samples",32681,3.5,3.6,0.12
+"Canada",2022-11-26,66343123,"samples",4423053,6.7,175,11.7
+"Chad",2021-03-02,99027,"samples",4020,4.1,0.72,0.029
+"Chile",NA,48154268,"samples",5123007,10.6,252,26.9
+"China[c]",2020-07-31,1.6e+08,"cases",87655,0.055,11.1,0.0061
+"Colombia",2022-11-24,36875818,"samples",6314769,17.1,76.4,13.1
+"Costa Rica",2021-11-02,2575363,"samples",561054,21.8,51.5,11.2
+"Croatia",NA,5481285,"cases",1267798,23.1,134,31.1
+"Cuba",NA,14301394,"samples",1112470,7.8,126,9.8
+"Cyprus[d]",2023-01-29,27820163,"samples",644160,2.3,NA,74.4
+"Czechia",NA,22544928,"samples",4590529,20.4,211,42.9
+"Denmark[e]",2023-01-31,67682707,"samples",3399947,5,NA,58.4
+"Djibouti",NA,305941,"",15631,5.1,33.2,1.7
+"Dominica",2022-06-20,209803,"cases",14821,7.1,293,20.7
+"Dominican Republic",2022-07-22,3574665,"samples",626030,17.5,32.9,5.8
+"DR Congo",NA,124838,"",25961,20.8,0.14,0.029
+"Ecuador",2021-07-23,1627189,"samples",480720,29.5,9.5,2.8
+"Egypt",2021-07-23,3137519,"samples",283947,9.1,3.1,0.28
+"El Salvador",2022-03-18,1847861,"samples",161052,8.7,28.5,2.5
+"Equatorial Guinea",2023-01-30,403773,"",17113,4.2,30.8,1.3
+"Estonia",2023-01-31,3637908,"samples",613954,16.9,274,46.2
+"Eswatini",NA,415110,"",49253,11.9,36.5,4.3
+"Ethiopia",2021-06-24,2981185,"samples",278446,9.3,2.6,0.24
+"Faroe Islands",NA,774000,"samples",34237,4.4,NA,65.7
+"Fiji",2023-01-02,667953,"samples",68848,10.3,74.5,7.7
+"Finland",2022-01-14,9042453,"samples",371135,4.1,163,6.7
+"France[f][g]",NA,272417258,"samples",29183646,10.7,417,44.7
+"Gabon",2021-07-23,958807,"samples",25325,2.6,3.1,0.082
+"Gambia",NA,43217,"samples",4469,10.3,2,0.21
+"Georgia[h]",2021-11-03,4888787,"samples",732965,15,132,19.7
+"Germany",2021-07-07,65247345,"samples",3733519,5.7,77.8,4.5
+"Ghana",2021-07-03,1305749,"samples",96708,7.4,4.2,0.31
+"Greece",NA,101576831,"samples",5548487,5.5,943,51.5
+"Greenland",2022-01-30,164573,"samples",10662,6.5,293,19
+"Grenada",NA,28684,"",161,0.56,25.7,0.14
+"Guatemala",2023-01-06,6800560,"samples",1230098,18.1,39.4,7.1
+"Guinea",2021-07-21,494898,"samples",24878,5,3.8,0.19
+"Guinea-Bissau",2022-07-07,145231,"",8400,5.8,7.7,0.45
+"Guyana",2022-06-15,648569,"cases",66129,10.2,82.5,8.4
+"Haiti",2022-11-26,223475,"cases",33874,15.2,2,0.3
+"Honduras",2021-11-26,1133782,"samples",377859,33.3,11.8,3.9
+"Hungary",NA,11394556,"samples",1909948,16.8,118,19.8
+"Iceland",NA,1988652,"samples",203162,10.2,546,55.8
+"India",2022-07-08,866177937,"samples",43585554,5,63,31.7
+"Indonesia",2023-07-03,76062770,"cases",6812127,9,28.2,2.5
+"Iran",NA,52269202,"samples",7232268,13.8,62.8,8.7
+"Iraq",NA,19090652,"samples",2448484,12.8,47.5,6.1
+"Ireland",2023-01-31,12990476,"samples",1700817,13.1,264,34.6
+"Israel",2022-01-17,41373364,"samples",1792137,4.3,451,19.5
+"Italy",2023-03-16,269127054,"samples",25651205,9.5,446,42.5
+"Ivory Coast",2021-03-03,429177,"samples",33285,7.8,1.6,0.13
+"Jamaica",NA,1184973,"samples",151931,12.8,43.5,5.6
+"Japan",2021-03-01,8487288,"",432773,5.1,6.7,0.34
+"Jordan",2021-06-06,7407053,"samples",739847,10,69.5,6.9
+"Kazakhstan",NA,11575012,"samples",385144,3.3,62.1,2.1
+"Kenya",2021-03-05,1322806,"samples",107729,8.1,2.8,0.23
+"Kosovo",NA,611357,"cases",107410,17.6,33.8,5.9
+"Kuwait",2022-03-09,7754247,"samples",624573,8.1,181,14.6
+"Kyrgyzstan",NA,695415,"samples",85253,12.3,10.7,1.3
+"Laos",2021-03-01,114030,"cases",45,0.039,1.6,0.00063
+"Latvia",NA,3630095,"samples",144518,4,189,7.5
+"Lebanon",2021-06-14,4599186,"samples",542649,11.8,67.4,8
+"Lesotho",2022-03-30,431221,"",32910,7.6,21.5,1.6
+"Liberia",2021-07-17,128246,"",5396,4.2,2.5,0.11
+"Libya",NA,2578215,"samples",501862,19.5,37.6,7.3
+"Lithuania",2023-01-31,9046584,"samples",1170108,12.9,324,41.9
+"Luxembourg[i]",NA,4248188,"samples",244182,5.7,679,39
+"Madagascar",NA,119608,"cases",19831,16.6,0.46,0.076
+"Malawi",2022-11-29,624784,"samples",88086,14.1,3.3,0.46
+"Malaysia",NA,23705425,"cases",1880734,7.9,72.3,5.7
+"Maldives",2022-03-13,2216560,"samples",174658,7.9,398,31.3
+"Mali",2021-07-07,322504,"samples",14449,4.5,1.6,0.071
+"Malta",NA,1211456,"samples",36606,3,245,7.4
+"Mauritania",NA,268093,"",18103,6.8,6.1,0.41
+"Mauritius",2020-11-22,289552,"samples",494,0.17,22.9,0.039
+"Mexico",NA,10503678,"cases",3749860,35.7,8.2,2.9
+"Moldova[j]",NA,3213594,"samples",516864,16.1,122,19.6
+"Mongolia",2021-07-10,3354200,"cases",136053,4.1,100,4.1
+"Montenegro",NA,394388,"samples",98449,25,62.5,15.6
+"Morocco",2023-01-06,14217563,"cases",1272299,8.9,38.5,3.4
+"Mozambique",2021-07-22,688570,"samples",105866,15.4,2.2,0.34
+"Myanmar",NA,4047680,"samples",440741,10.9,7.4,0.81
+"Namibia",2022-07-04,1062663,"samples",166229,15.6,38.7,6.1
+"Nepal",2022-07-26,5804358,"samples",984475,17,20.7,3.5
+"Netherlands",2021-07-06,14526293,"cases",1692834,11.7,83.4,9.7
+"New Caledonia",NA,41962,"samples",136,0.32,15.7,0.05
+"New Zealand",2023-01-29,7757935,"samples",2136662,27.5,156,42.9
+"Niger",NA,79321,"cases",4740,6,0.35,0.021
+"Nigeria",NA,1544008,"samples",155657,10.1,0.75,0.076
+"North Korea",2020-11-25,16914,"cases",0,0,0.066,0
+"North Macedonia",2021-07-01,881870,"samples",155689,17.7,42.5,7.5
+"Northern Cyprus[k]",2022-07-12,7096998,"samples",103034,1.5,NA,31.6
+"Norway",2022-01-20,9811888,"samples",554778,5.7,183,10.3
+"Oman",NA,509959,"samples",114434,22.4,11,2.5
+"Pakistan",2021-03-05,9173593,"samples",588728,6.4,4.2,0.27
+"Palestine",NA,3078533,"samples",574105,18.6,60.9,11.4
+"Panama",2023-01-28,7475016,"samples",1029701,13.8,179,24.7
+"Papua New Guinea",NA,47490,"cases",961,2,0.53,0.011
+"Paraguay",2022-03-27,2609819,"samples",647950,24.8,36.6,9.1
+"Peru",2022-11-17,36073768,"samples",4177786,11.6,109.9,12.7
+"Philippines",2023-01-07,34402980,"samples",4073980,11.8,34.1,4
+"Poland",NA,36064311,"samples",5993861,16.6,94,15.6
+"Portugal",2022-01-05,27515490,"samples",1499976,5.5,268,14.6
+"Qatar",2022-11-11,4061988,"cases",473440,11.7,141,16.4
+"Romania",2021-01-29,5405393,"samples",724250,13.4,27.9,3.7
+"Russia",2022-06-06,295542733,"samples",18358459,6.2,201,12.5
+"Rwanda",NA,2885812,"samples",98209,3.4,22.3,0.76
+"Saint Kitts and Nevis",NA,30231,"cases",995,3.3,57.6,1.9
+"Saint Lucia",NA,212132,"samples",29550,13.9,116.6,16.2
+"Saint Vincent",2023-01-28,113504,"cases",9585,8.4,103,8.7
+"San Marino",2023-01-29,192613,"samples",23427,12.2,563,68.4
+"Saudi Arabia",NA,41849069,"samples",753632,1.8,120,2.2
+"Senegal",2021-07-12,624502,"samples",46509,7.4,3.9,0.29
+"Serbia",NA,12185475,"cases",2473599,20.3,175,35.5
+"Singapore",NA,16206203,"samples",65315,0.4,284,1.1
+"Slovakia",NA,7391882,"samples",1861034,25.2,135,34.1
+"Slovenia",NA,2826117,"samples",1322282,46.8,135,63.1
+"South Africa",NA,11378282,"cases",1637848,14.4,19.2,2.8
+"South Korea",2021-03-01,6592010,"samples",90029,1.4,12.7,0.17
+"South Sudan",NA,164472,"",10688,6.5,1.3,0.084
+"Spain",2021-07-01,54128524,"samples",3821305,7.1,116,8.2
+"Sri Lanka",2021-03-30,2384745,"samples",93128,3.9,10.9,0.43
+"Sudan",2021-01-07,158804,"samples",23316,14.7,0.36,0.053
+"Sweden",NA,9996795,"samples",1074751,10.8,96.8,10.4
+"Switzerland[l]",2022-11-07,23283909,"samples",4276836,18.4,270,49.7
+"Taiwan[m]",NA,30275725,"samples",8622129,28.48,128.3,36.528
+"Tanzania",2020-11-18,3880,"",509,13.1,0.0065,0.00085
+"Thailand",2021-03-04,1579597,"cases",26162,1.7,2.3,0.038
+"Togo",2023-01-06,807269,"",39358,4.9,9.4,0.46
+"Trinidad and Tobago",2022-01-03,512730,"cases",92997,18.1,37.6,6.8
+"Tunisia",NA,2893625,"samples",703732,24.3,24.5,6
+"Turkey",2021-07-02,61236294,"samples",5435831,8.9,73.6,6.5
+"Uganda",NA,852444,"samples",39979,4.7,1.9,0.087
+"Ukraine",2021-11-24,15648456,"samples",3367461,21.5,37.2,8
+"United Arab Emirates",NA,198685717,"samples",1049537,0.53,NA,10.9
+"United Kingdom",NA,522526476,"samples",22232377,4.3,774,32.9
+"United States",2022-07-29,929349291,"samples",90749469,9.8,281,27.4
+"Uruguay",NA,6089116,"samples",895592,14.7,175,25.8
+"Uzbekistan",NA,2630000,"samples",43975,1.7,7.7,0.13
+"Venezuela",2021-03-30,3179074,"samples",159149,5,11,0.55
+"Vietnam",NA,45772571,"samples",11403302,24.9,46.4,11.6
+"Zambia",2022-03-10,3301860,"samples",314850,9.5,19,1.8
+"Zimbabwe",NA,2529087,"samples",257893,10.2,17,1.7
+".mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+^ Local time.
+
+^ For some countries it is unclear whether they report samples or cases. One person tested twice is recorded as one case and two samples.
+
+^ Excluding Taiwan.
+
+^ Excluding Northern Cyprus.
+
+^ Excluding Greenland and the Faroe Islands.
+
+^ Excluding Overseas France.
+
+^ Testing data from 4 May to 12 May is missing because of the transition to the new reporting system SI-DEP.
+
+^ Excluding Abkhazia and South Ossetia.
+
+^ Data for residents only.
+
+^ Excluding Transnistria.
+
+^ Northern Cyprus is not recognized as a sovereign state by any country except Turkey.
+
+^ Includes data for Liechtenstein.
+
+^ Not a United Nations member.",NA,NA,".mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+^ Local time.
+
+^ For some countries it is unclear whether they report samples or cases. One person tested twice is recorded as one case and two samples.
+
+^ Excluding Taiwan.
+
+^ Excluding Northern Cyprus.
+
+^ Excluding Greenland and the Faroe Islands.
+
+^ Excluding Overseas France.
+
+^ Testing data from 4 May to 12 May is missing because of the transition to the new reporting system SI-DEP.
+
+^ Excluding Abkhazia and South Ossetia.
+
+^ Data for residents only.
+
+^ Excluding Transnistria.
+
+^ Northern Cyprus is not recognized as a sovereign state by any country except Turkey.
+
+^ Includes data for Liechtenstein.
+
+^ Not a United Nations member.",NA,NA,NA,NA
